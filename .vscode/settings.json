@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "BasicGameProgramming.sln"
+    "dotnet.defaultSolution": "LS-GamLab-BasicMove.sln"
 }
