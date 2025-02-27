@@ -350,19 +350,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-<<<<<<< HEAD
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/finishCollider.cs"
 "Assets/Scripts/CharacterController.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/Movement.cs"
-=======
--analyzer:"G:/software/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
--analyzer:"G:/software/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/CharacterController.cs"
-"Assets/finishCollider.cs"
-"Assets/Movement.cs"
->>>>>>> 4fbb4a3065b1a37609edb7066335092f923f1faa
+"Assets/Scripts/PauseMenu.cs"
 -langversion:9.0
 
 /deterministic
