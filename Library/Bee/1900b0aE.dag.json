@@ -19321,8 +19321,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1456717,
       "PayloadLength": 32883,
+=======
+      "PayloadOffset": 1337151,
+      "PayloadLength": 28311,
+>>>>>>> 4fbb4a3065b1a37609edb7066335092f923f1faa
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -19334,7 +19339,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1489687,
+=======
+      "PayloadOffset": 1365549,
+>>>>>>> 4fbb4a3065b1a37609edb7066335092f923f1faa
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -19578,11 +19587,19 @@
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
+<<<<<<< HEAD
         "Assets/Scripts/CharacterController.cs",
         "Assets/Scripts/MainMenu.cs",
         "Assets/Scripts/Movement.cs",
         "C:/Program Files/Unity/Hub/Editor/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
+=======
+        "Assets/CharacterController.cs",
+        "Assets/finishCollider.cs",
+        "Assets/Movement.cs",
+        "G:/software/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
+        "G:/software/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
+>>>>>>> 4fbb4a3065b1a37609edb7066335092f923f1faa
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
       ],
       "Outputs": [
@@ -19819,7 +19836,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1489783,
+=======
+      "PayloadOffset": 1365645,
+>>>>>>> 4fbb4a3065b1a37609edb7066335092f923f1faa
       "PayloadLength": 9366,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
