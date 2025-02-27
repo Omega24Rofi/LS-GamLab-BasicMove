@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\CharacterController.cs" />
     <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\finishCollider.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
