@@ -354,6 +354,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/finishCollider.cs"
 "Assets/Scripts/CharacterController.cs"
+"Assets/Scripts/EndGame.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/Movement.cs"
 "Assets/Scripts/PauseMenu.cs"
